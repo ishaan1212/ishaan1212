@@ -20,20 +20,18 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a align="center" href="(https://readme-typing-svg.herokuapp.com?color=%23F7D84A&size=30&lines=The+five+boxing+wizards+jump+quickly)(https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Web+Developer%2C;Love+To+design+creative+Websites%2C;UI+/+UX+Designer%2C;Interesed+in+Machine+Learning.">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Software+Developer%2C;Love+To+design+creative+Websites%2C;Machine+Learning+Enthusiast%2C;">
   </a>
 </h1>
 <h1>Something about me! ✍️</h1>
 <ul>
-<li>I am a B.Tech(CSE) student at SRM Institute of Science and Technology, Kattankulathur, Chennai,</li>
+<li>I am currently pursuing my Masters in Applied Computing from University of Windsor, Canada</li>
+<li>I am a B.Tech(CSE) graduate student from SRM Institute of Science and Technology, Kattankulathur, Chennai,</li>
 <li>I Like To showcase my skills on Web Development and Machine Learning</li>
-<li>I am a junior and currently building skills to become a Data Scientist!</li>
+<li>I am a junior and currently building skills to become a Data Engineer!</li>
 </ul>
-<h1>Projects 📖</h1>
-<ul>
-  <li>👯 Looking forward to collaborate on Frontend, ML, Data Science projects</li>
-  <li>💬 Feel free to drop by a message!</li>
-</ul>
+<h3>👯 Looking forward to collaborate on Frontend, ML, Data Science project</h3>
+<h3>💬 Feel free to drop by a message!</h3>
 <h1>Hobbies 🌝</h1>
 <ul>
   <li>Fun fact: I know it's crazy, but I love to cook and eat 🍰</li>
